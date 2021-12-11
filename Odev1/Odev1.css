@@ -1,0 +1,27 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.head{
+    color: palevioletred;
+    text-align: center;
+}
+.hobi{
+    margin-left: 20px;
+}
+#foto{
+    width: 300px;
+    height: 400px;
+    border-radius: 100%;
+}
+#navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav a:hover{
+
+    color: blue;
+
+}
